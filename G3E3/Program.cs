@@ -29,7 +29,7 @@ namespace G3E3
             //Realiza la operacion para obtener el volumen
             volumen =  division * Math.PI * radio;
             //Imprime el resultado y cierra el programa
-            Console.WriteLine("El volumen de la esfera es de :" + volumen);
+            Console.WriteLine($"El volumen de la esfera es de : {volumen}");
             Console.WriteLine("Presione cualquier tecla para continuar...");
             Console.ReadKey();            
         }
