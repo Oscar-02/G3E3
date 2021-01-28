@@ -7,6 +7,13 @@ namespace G3E3
         static void Main(string[] args)
         {
             /*
+             * PROGRAMACION ESTRUCTURADA GRUPO 07L
+             * EJERCICIO 4 GUIA 3
+             * 
+             * OSCAR ROLANDO CAÑAS VALDIZON
+             */
+
+            /*
              * NOTA: EN ESTE PROGRAMA SE USA LA CLASE "System.Math" PARA EJECUTAR
              * CON MENOR CANTIDAD DE LINEAS DE CODIGO Y USAR MENOS VARIABLES/CONSTANTES
              * DE LOS ESPERADOS
