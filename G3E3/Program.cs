@@ -8,7 +8,7 @@ namespace G3E3
         {
             /*
              * PROGRAMACION ESTRUCTURADA GRUPO 07L
-             * EJERCICIO 4 GUIA 3
+             * EJERCICIO 3 GUIA 3
              * 
              * OSCAR ROLANDO CAÑAS VALDIZON
              */
